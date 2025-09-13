@@ -1,4 +1,21 @@
-Flask>=3.0
-pandas
-python-dotenv
-python-dateutil
+# ---- Core web app ----
+Flask==3.0.3
+python-dotenv==1.0.1
+python-dateutil==2.9.0.post0
+
+# ---- Data handling ----
+pandas==2.2.2
+pyyaml==6.0.2
+chardet==5.2.0
+
+# ---- HTML parsing / extraction ----
+beautifulsoup4==4.12.3
+lxml==5.3.0
+requests==2.32.3
+
+# ---- Production servers (pick one per deploy target) ----
+waitress==3.0.0    # Windows-friendly / local hosting
+gunicorn==22.0.0   # Linux servers (Render/Fly/Heroku)
+
+# ---- Optional CORS if you split front/back origins ----
+# Flask-Cors==4.0.1

@@ -1,0 +1,43 @@
+{
+  "source": {
+    "name": "TechRadar",
+    "url": "https://www.techradar.com",
+    "language": "English",
+    "group": "Testing/Unseen"
+  },
+  "requested_url": "https://www.techradar.com",
+  "final_url": "https://www.techradar.com/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:23:32.439740Z",
+  "headers": {
+    "Connection": "keep-alive",
+    "Content-Length": "229216",
+    "content-type": "text/html; charset=utf-8",
+    "x-ftr-request-id": "e328db98-8d17-4fd9-8815-5c84c54e691c, 00000000000000000000FFFF9D344554:6961_00000000000000000000FFFFB9711932:01BB_68C55320_D8A717E:3C3030",
+    "x-frame-options": "SAMEORIGIN",
+    "content-security-policy": "frame-ancestors self",
+    "last-modified": "Sat, 13 Sep 2025 11:18:55 GMT",
+    "xkey": "techradar-platform-responsive, techradar-curatedlist-Z7sFhXyubEuPtpHdTjny3D, techradar-page-homepage, techradar-page-homepage-non-connected, techradar-region-US, techradar-flexi-page-guid-techradar_page_layout_home_flexi_v2, techradar-flexi-controller-FlexiPageLayout:index, techradar-flexi-layout-home, techradar-flexi-route-custom_route_1674861438, techradar-version-1395150, techradar-server-phpfpm-775b48948b-g2vvc, techradar-hawkwidgets-master-de9a48e1",
+    "x-ftr-cache-status": "HIT HIT",
+    "x-age": "0",
+    "content-encoding": "gzip",
+    "x-ftr-balancer": "vanilla-mochi-http-haproxy-prod-1",
+    "x-ftr-backend": "varnish-leopard",
+    "x-ftr-backend-server": "leopard2",
+    "Via": "1.1 varnish, 1.1 varnish",
+    "Accept-Ranges": "bytes",
+    "Age": "284",
+    "Date": "Sat, 13 Sep 2025 11:23:41 GMT",
+    "X-Served-By": "cache-lon420084-LON, cache-man4128-MAN",
+    "X-Cache-Hits": "54, 0",
+    "X-Timer": "S1757762622.596183,VS0,VE8",
+    "Vary": "Accept-Encoding, X-FTR-kiosq-user-status, X-FTR-kiosq-server-side-user-status, X-Country-Code, X-FTR-ABTest-Group",
+    "Set-Cookie": "FTR_Country_Code=NG; path=/; domain=www.techradar.com, FTR_Cache_Status=MISS-CLUSTER; path=/; domain=www.techradar.com",
+    "X-Country-Code": "US",
+    "X-Country-Code-Real": "NG",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "x-cache": "MISS-CLUSTER",
+    "Cache-Control": "no-store,private",
+    "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400"
+  }
+}

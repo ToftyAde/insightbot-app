@@ -1,0 +1,167 @@
+{% extends "layout.html" %}
+{% block title %}InsightBot — Daily News Simplified{% endblock %}
+{% block content %}
+
+{# --- Safe defaults so template never crashes --- #}
+{% set lang_counts    = lang_counts|default({}) %}
+{% set sources_top    = sources_top|default([]) %}
+{% set total_articles = total_articles|default(0) %}
+{% set sources_count  = sources_count|default(0) %}
+{% set last_updated   = last_updated|default("—") %}
+
+{# --- Flag asset map (uses your static/img/flags/*.svg) --- #}
+{% set flag_src = {
+  'English': 'img/flags/gb.svg',
+  'Arabic':  'img/flags/sa.svg',
+  'Russian': 'img/flags/ru.svg'
+} %}
+
+<div class="layout">
+
+  <!-- Filters sidebar -->
+  <aside class="filters">
+    <div class="filters-title">Filters</div>
+
+    <!-- Language block -->
+    <div class="filter-block">
+      <div class="filter-label">Language</div>
+
+      <a class="filter-item" href="{{ url_for('articles') }}?language=English">
+        <img class="flag-img" src="{{ url_for('static', filename=flag_src['English']) }}" alt="English flag">
+        <span>English</span>
+        <span class="count">{{ lang_counts.get('English', 0) }}</span>
+      </a>
+
+      <a class="filter-item" href="{{ url_for('articles') }}?language=Arabic">
+        <img class="flag-img" src="{{ url_for('static', filename=flag_src['Arabic']) }}" alt="Arabic flag">
+        <span>Arabic</span>
+        <span class="count">{{ lang_counts.get('Arabic', 0) }}</span>
+      </a>
+
+      <a class="filter-item" href="{{ url_for('articles') }}?language=Russian">
+        <img class="flag-img" src="{{ url_for('static', filename=flag_src['Russian']) }}" alt="Russian flag">
+        <span>Russian</span>
+        <span class="count">{{ lang_counts.get('Russian', 0) }}</span>
+      </a>
+    </div>
+
+    <!-- Sources block -->
+    <div class="filter-block">
+      <div class="filter-label">Sources</div>
+      <div class="filter-list scroll">
+        {% for s in sources_top %}
+          <a class="filter-chip" href="{{ url_for('articles') }}?source={{ s.label|urlencode }}">
+            {% if s.host %}
+              <img class="fav"
+                   src="https://www.google.com/s2/favicons?domain={{ s.host }}&sz=64"
+                   onerror="this.onerror=null; this.src='https://icons.duckduckgo.com/ip3/{{ s.host }}.ico';"
+                   alt="" loading="lazy">
+            {% else %}
+              <img class="fav" src="{{ url_for('static', filename='img/fallback-favicon.svg') }}" alt="" loading="lazy">
+            {% endif %}
+            <span>{{ s.label }}</span>
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- Date range shortcuts -->
+    <div class="filter-block">
+      <div class="filter-label">Date Range</div>
+      <div class="daterange">
+        <a class="button-primary small" href="{{ url_for('articles') }}?date=today">Today</a>
+        <a class="button-outline small" href="{{ url_for('articles') }}?date=7d">Last 7 Days</a>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Main -->
+  <section class="home-main">
+    <!-- Hero -->
+    <div class="hero">
+      <h1>Daily News, Simplified.</h1>
+      <p class="hero-sub">Pattern-mined, multilingual news summaries you can trust.</p>
+
+      <div class="hero-actions">
+        <a class="button-primary" href="{{ url_for('articles') }}">Browse Articles</a>
+      </div>
+
+      <!-- Quick language pills -->
+      <div class="hero-lang-pills">
+        <a class="pill" href="{{ url_for('articles') }}?language=English">
+          <img class="flag-img" src="{{ url_for('static', filename=flag_src['English']) }}" alt="English flag">
+          <span>English</span>
+        </a>
+        <a class="pill" href="{{ url_for('articles') }}?language=Arabic">
+          <img class="flag-img" src="{{ url_for('static', filename=flag_src['Arabic']) }}" alt="Arabic flag">
+          <span>Arabic</span>
+        </a>
+        <a class="pill" href="{{ url_for('articles') }}?language=Russian">
+          <img class="flag-img" src="{{ url_for('static', filename=flag_src['Russian']) }}" alt="Russian flag">
+          <span>Russian</span>
+        </a>
+      </div>
+
+      <div class="hero-stats">
+        <div>
+          <div class="stat-icon">🌐</div>
+          <div class="stat-title">{{ total_articles }} Articles</div>
+          <div class="stat-sub">In the index</div>
+        </div>
+        <div>
+          <div class="stat-icon">🔎</div>
+          <div class="stat-title">{{ sources_count }} Sources</div>
+          <div class="stat-sub">Top outlets worldwide</div>
+        </div>
+        <div>
+          <div class="stat-icon">🕒</div>
+          <div class="stat-title">Just Updated</div>
+          <div class="stat-sub">{{ last_updated }}</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- How it works -->
+    <div class="how">
+      <h2>How It Works</h2>
+      <div class="how-steps">
+        <div class="how-step">
+          <div class="num">1</div><div class="how-title">Scrape</div>
+          <p>Collect articles from trusted sources in multiple languages.</p>
+        </div>
+        <div class="how-step">
+          <div class="num">2</div><div class="how-title">Pattern-Mine</div>
+          <p>Identify structural patterns to extract titles and bodies.</p>
+        </div>
+        <div class="how-step">
+          <div class="num">3</div><div class="how-title">Publish</div>
+          <p>Clean outputs power a fast UI and dashboards.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Features -->
+    <div class="features">
+      <h2>Key Features</h2>
+      <div class="grid3">
+        <div class="tile"><div class="tile-icon">🌍</div><h3>Multilingual</h3><p>English, العربية, Русский with RTL for Arabic.</p></div>
+        <div class="tile"><div class="tile-icon">⚡</div><h3>Fast</h3><p>Pattern heuristics, no heavy browsers.</p></div>
+        <div class="tile"><div class="tile-icon">✔︎</div><h3>Accurate</h3><p>Largest-block/title rules tuned on 40 sites.</p></div>
+        <div class="tile"><div class="tile-icon">📈</div><h3>Dashboards</h3><p>Trends by language, source, and date.</p></div>
+        <div class="tile"><div class="tile-icon">🔎</div><h3>Filters</h3><p>Language, source, date, and keywords.</p></div>
+        <div class="tile"><div class="tile-icon">🔔</div><h3>Scheduling</h3><p>Daily updates via Task Scheduler.</p></div>
+      </div>
+    </div>
+
+    <!-- CTA -->
+    <div class="cta">
+      <h3>Ready to simplify your news?</h3>
+      <p>Browse the latest extracted articles, already cleaned and organized.</p>
+      <div class="cta-actions">
+        <a class="button-light" href="{{ url_for('articles') }}">Open Articles</a>
+      </div>
+    </div>
+  </section>
+</div>
+
+{% endblock %}

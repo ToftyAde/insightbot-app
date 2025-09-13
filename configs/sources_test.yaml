@@ -1,0 +1,42 @@
+# Testing Sources (10)
+sources:
+  - name: The Economist
+    url: https://www.economist.com
+    language: English
+    group: Testing/Unseen
+  - name: USA Today
+    url: https://www.usatoday.com
+    language: English
+    group: Testing/Unseen
+  - name: Al Arabiya English
+    url: https://english.alarabiya.net
+    language: English
+    group: Testing/Unseen
+  - name: ABC (Australia) News
+    url: https://www.abc.net.au/news
+    language: English
+    group: Testing/Unseen
+  - name: Le Monde
+    url: https://www.lemonde.fr
+    language: French
+    group: Testing/Unseen
+  - name: Sputnik News
+    url: https://www.sputniknews.com
+    language: Russian
+    group: Testing/Unseen
+  - name: Jerusalem Post
+    url: https://www.jpost.com
+    language: English
+    group: Testing/Unseen
+  - name: TechRadar
+    url: https://www.techradar.com
+    language: English
+    group: Testing/Unseen
+  - name: Cloudflare Blog
+    url: https://blog.cloudflare.com
+    language: English
+    group: Testing/Unseen
+  - name: The Atlantic
+    url: https://www.theatlantic.com
+    language: English
+    group: Testing/Unseen

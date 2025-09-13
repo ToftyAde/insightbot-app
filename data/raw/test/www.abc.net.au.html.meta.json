@@ -1,0 +1,32 @@
+{
+  "source": {
+    "name": "ABC (Australia) News",
+    "url": "https://www.abc.net.au/news",
+    "language": "English",
+    "group": "Testing/Unseen"
+  },
+  "requested_url": "https://www.abc.net.au/news",
+  "final_url": "https://www.abc.net.au/news",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:22:49.726404Z",
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "X-Content-Type-Options": "nosniff",
+    "X-XSS-Protection": "1; mode=block",
+    "X-Download-Options": "noopen",
+    "X-DNS-Prefetch-Control": "off",
+    "Referrer-Policy": "no-referrer-when-downgrade",
+    "X-Frame-Options": "SAMEORIGIN",
+    "ETag": "\"bhhny4i32pfyu5\"",
+    "Content-Encoding": "gzip",
+    "Content-Length": "119574",
+    "Edge-Cache-Tag": "news",
+    "Cache-Control": "public, max-age=41",
+    "Expires": "Sat, 13 Sep 2025 11:23:37 GMT",
+    "Date": "Sat, 13 Sep 2025 11:22:56 GMT",
+    "Connection": "keep-alive",
+    "Vary": "Accept-Encoding, Origin, Cookie",
+    "Set-Cookie": "ABCGuestID=95.100.152.151.200491757762576363; expires=Mon, 31-Dec-2038 23:59:59 GMT; path=/; domain=.abc.net.au, ABC_LD=int; path=/; domain=.abc.net.au, ABC_FF=desktop; expires=Sat, 13-Sep-2025 13:22:56 GMT; path=/",
+    "Content-Security-Policy": "upgrade-insecure-requests;"
+  }
+}

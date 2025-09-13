@@ -1,0 +1,3 @@
+# HTML parsing for preprocessing/extraction
+beautifulsoup4
+lxml

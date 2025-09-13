@@ -1,0 +1,31 @@
+{
+  "source": {
+    "name": "Financial Times",
+    "url": "https://www.ft.com",
+    "language": "English",
+    "group": "News & Blogs/English"
+  },
+  "requested_url": "https://www.ft.com",
+  "final_url": "https://www.ft.com/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:19:38.290839Z",
+  "headers": {
+    "Connection": "keep-alive",
+    "Content-Length": "39764",
+    "x-xss-protection": "1; mode=block",
+    "x-download-options": "noopen",
+    "cache-control": "max-age=0, no-cache, must-revalidate",
+    "etag": "W/\"54d80-FOqdJTd0C9uc/p6YWne3AcnCbZs\"",
+    "content-type": "text/html; charset=utf-8",
+    "allow": "GET, HEAD",
+    "Content-Encoding": "gzip",
+    "Accept-Ranges": "bytes",
+    "Date": "Sat, 13 Sep 2025 11:19:43 GMT",
+    "Vary": "ft-flags, ft-anonymous-user, ft-edition, et-app, FT-Site, FT-Regional-News, Accept-Encoding, FT-Site, FT-Regional-News",
+    "Set-Cookie": "OriginalReferer=None; Expires=Sat, 13 Sep 2025 11:49:43 GMT; Domain=.ft.com; Path=/, FtComEntryPoint=/; Expires=Sat, 13 Sep 2025 11:49:43 GMT; Domain=.ft.com; Path=/, FTClientSessionId=bd25b4c9-ade7-440e-81bd-2956bfcb63f2; Expires=Sun, 18 Oct 2026 11:19:43 GMT; Domain=.ft.com; Path=/, spoor-id=bd25b4c9-ade7-440e-81bd-2956bfcb63f2; Expires=Sun, 13 Sep 2026 11:19:43 GMT; Domain=.ft.com; Path=/",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "X-Content-Type-Options": "nosniff",
+    "Content-Security-Policy": "upgrade-insecure-requests; frame-ancestors https://*.ft.com https://*.chromatic.com ; report-uri https://csp-report.ft.com/33C06499-DBAB-4FCB-880F-75B0467895F5",
+    "Content-Security-Policy-Report-Only": "default-src https://*.ft.com https: ; font-src https://*.ft.com https: data: ; img-src https://*.ft.com https: data: ; media-src https://*.ft.com https: data: ; script-src 'unsafe-inline' 'unsafe-eval' https://*.ft.com https: ; style-src 'unsafe-inline' https://*.ft.com https: ; worker-src blob: ; connect-src https: wss://ft.coral.coralproject.net ; frame-ancestors https://*.ft.com https://*.chromatic.com ; report-uri https://csp-report.ft.com/33C06499-DBAB-4FCB-880F-75B0467895F5"
+  }
+}

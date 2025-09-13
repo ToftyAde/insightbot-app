@@ -1,0 +1,37 @@
+{
+  "source": {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com",
+    "language": "English",
+    "group": "News & Blogs/English"
+  },
+  "requested_url": "https://techcrunch.com",
+  "final_url": "https://techcrunch.com/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:18:21.290227Z",
+  "headers": {
+    "Server": "nginx",
+    "Date": "Sat, 13 Sep 2025 11:18:26 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Vary": "Accept-Encoding, Origin",
+    "X-hacker": "If you're reading this, you should visit https://join.a8c.com/viphacker and apply to join the fun, mention this header.",
+    "X-Powered-By": "WordPress VIP <https://wpvip.com>",
+    "Host-Header": "a9130478a60e5f9135f765b23f26593b",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Content-Security-Policy": "default-src 'self' *.techcrunch.com; frame-ancestors 'self'; frame-src 'self' https:; style-src 'self' 'unsafe-inline' *; img-src 'self' * data:; connect-src 'self' https:; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; worker-src 'self' blob:; media-src 'self' *.youtube.com *.jetpackdigital.com; font-src 'self' * data:; upgrade-insecure-requests; block-all-mixed-content; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox;",
+    "Permissions-Policy": "autoplay=(), camera=(), fullscreen=*, geolocation=*, display-capture=(self), microphone=()",
+    "X-Content-Type-Options": "nosniff",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "Access-Control-Allow-Origin": "https://techcrunch.com",
+    "Access-Control-Allow-Methods": "*",
+    "Link": "<https://techcrunch.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "Content-Encoding": "gzip",
+    "cache-control": "max-age=300, must-revalidate",
+    "x-rq": "jnb2 0 30 9980",
+    "accept-ranges": "bytes",
+    "x-cache": "HIT",
+    "Strict-Transport-Security": "max-age=300;includeSubdomains"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source": {
+    "name": "Al Jazeera (AR)",
+    "url": "https://www.aljazeera.net",
+    "language": "Arabic",
+    "group": "News & Blogs/Arabic"
+  },
+  "requested_url": "https://www.aljazeera.net",
+  "final_url": "https://www.aljazeera.net/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:20:18.945869Z",
+  "headers": {
+    "Server": "nginx",
+    "Content-Type": "text/html; charset=utf-8",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1; mode=block",
+    "ETag": "W/\"f1229-cdWvkxaT04B+W86QrcxfLnPVVXo\"",
+    "Content-Encoding": "gzip",
+    "x-rq": "lhr3 182 253 80",
+    "Cache-Control": "max-age=120, must-revalidate",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "214145",
+    "Date": "Sat, 13 Sep 2025 11:20:22 GMT",
+    "Connection": "keep-alive",
+    "Vary": "Accept-Encoding",
+    "Strict-Transport-Security": "max-age=15768000"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "source": {
+    "name": "Le Monde",
+    "url": "https://www.lemonde.fr",
+    "language": "French",
+    "group": "Testing/Unseen"
+  },
+  "requested_url": "https://www.lemonde.fr",
+  "final_url": "https://www.lemonde.fr/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:22:57.836709Z",
+  "headers": {
+    "Connection": "keep-alive",
+    "Content-Length": "46144",
+    "content-type": "text/html;charset=UTF-8",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "content-security-policy": "default-src data: 'unsafe-inline' 'unsafe-eval' https:; script-src data: 'unsafe-inline' 'unsafe-eval' https: blob:; style-src data: 'unsafe-inline' https:; img-src data: https: blob:; font-src data: https:; connect-src https: wss:; media-src https: blob: data:; object-src https:; child-src https: data: blob:; form-action https:; block-all-mixed-content; frame-ancestors 'self' https://apps.lemonde.fr;",
+    "content-encoding": "gzip",
+    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff",
+    "expires": "Fri, 12 Sep 2025 11:22:01 GMT",
+    "Accept-Ranges": "bytes",
+    "Date": "Sat, 13 Sep 2025 11:23:06 GMT",
+    "Age": "65",
+    "X-Served-By": "cache-lcy-egml8630073-LCY, cache-lcy-egml8630073-LCY, cache-mrs1050109-MRS",
+    "X-Cache": "MISS, HIT, HIT",
+    "X-Cache-Hits": "0, 19, 1",
+    "X-Timer": "S1757762586.308451,VS0,VE5",
+    "Vary": "Accept-Encoding",
+    "Set-Cookie": "lmd_a_c=0; Path=/; Domain=.lemonde.fr; Expires=Thu, 01 Jan 1970 00:00:00 GMT",
+    "Cache-Control": "private, no-store",
+    "Strict-Transport-Security": "max-age=31557600"
+  }
+}

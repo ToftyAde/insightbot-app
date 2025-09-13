@@ -1,0 +1,31 @@
+{
+  "source": {
+    "name": "The National (EN+AR)",
+    "url": "https://www.thenationalnews.com",
+    "language": "Arabic",
+    "group": "News & Blogs/Arabic"
+  },
+  "requested_url": "https://www.thenationalnews.com",
+  "final_url": "https://www.thenationalnews.com/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:21:00.849762Z",
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Length": "158149",
+    "Server": "openresty",
+    "x-arc-pb-mx-id": "00000000",
+    "x-arc-pb-request-id": "89d4ff0c-ee59-4c2c-a54f-2277187947dd, df3cc2da-7dd9-4e89-a7c5-fbdfa9ad890e",
+    "ETag": "W/\"101679-EjwQJNNlfkYz6G0PnByG4kUQC6w\"",
+    "Content-Encoding": "gzip",
+    "Last-Modified": "Sat, 13 Sep 2025 11:19:22 GMT",
+    "Vary": "Accept-Encoding",
+    "Cache-Control": "private, max-age=60",
+    "Expires": "Sat, 13 Sep 2025 11:22:05 GMT",
+    "Date": "Sat, 13 Sep 2025 11:21:05 GMT",
+    "Connection": "keep-alive",
+    "Set-Cookie": "arc-geo={\"country_code\":\"NG\",\"city\":\"LAGOS\",\"longitude\":\"3.40\",\"latitude\":\"6.45\"}; path=/; secure",
+    "Content-Security-Policy": "upgrade-insecure-requests",
+    "x-arc-ttl": "130",
+    "x-arc-request-id": "0.b5220117.1757762465.17d36145"
+  }
+}

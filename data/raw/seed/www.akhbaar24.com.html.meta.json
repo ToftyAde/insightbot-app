@@ -1,0 +1,31 @@
+{
+  "source": {
+    "name": "Akhbaar 24",
+    "url": "https://www.akhbaar24.com",
+    "language": "Arabic",
+    "group": "News & Blogs/Arabic"
+  },
+  "requested_url": "https://www.akhbaar24.com",
+  "final_url": "https://www.akhbaar24.com/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:20:45.051706Z",
+  "headers": {
+    "Date": "Sat, 13 Sep 2025 11:20:49 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ulfshDzhzyIcAqkEdFsLSkvPoYfm5IgSu7zk4OM%2BtB3qtuLLnU6yfBhQDQeg%2Fw6Zb6hAQu6LVIDZmp3UVtShfYz9UnfZXflOyCyNGvFz\"}]}",
+    "Cache-Control": "stale-while-revalidate=60",
+    "Vary": "Accept-Encoding",
+    "X-Cache": "Miss from cloudfront",
+    "Via": "1.1 bf782c028c85b3de6883a6e8aea78054.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "LHR61-P6",
+    "X-Amz-Cf-Id": "ONb6vlVKk4DSy1lCIVFb2hsIsl_dKvWq5lcRBrnFSR8m9e2L4K6_hA==",
+    "cf-cache-status": "DYNAMIC",
+    "Content-Encoding": "gzip",
+    "Set-Cookie": "device=web; HttpOnly; Secure; Path=/; Max-Age=315360000; Expires=Tue, 11 Sep 2035 11:20:49 GMT, array_query=deleted; Path=/; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:01 GMT",
+    "CF-RAY": "97e741eb3d74edf0-LHR"
+  }
+}

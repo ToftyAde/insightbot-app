@@ -1,0 +1,4 @@
+Flask>=3.0
+pandas
+python-dotenv
+python-dateutil

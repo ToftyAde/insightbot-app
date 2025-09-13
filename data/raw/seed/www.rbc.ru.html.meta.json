@@ -1,0 +1,29 @@
+{
+  "source": {
+    "name": "RBC",
+    "url": "https://www.rbc.ru",
+    "language": "Russian",
+    "group": "News & Blogs/Russian"
+  },
+  "requested_url": "https://www.rbc.ru",
+  "final_url": "https://www.rbc.ru/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:21:54.748200Z",
+  "headers": {
+    "Server": "QRATOR",
+    "Date": "Sat, 13 Sep 2025 11:21:59 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Keep-Alive": "timeout=15",
+    "X-UA-Compatible": "IE=edge",
+    "Content-Encoding": "gzip",
+    "Set-Cookie": "xrft=1757762519.839:5df288f3149d33ca965a0fd0a9d09e9e;Domain=.rbc.ru;Path=/;Max-Age=3600, js_d=false;Path=/, xrft=1757762519.839:5df288f3149d33ca965a0fd0a9d09e9e;Domain=.rbc.ru;Path=/;Max-Age=3600, splituid=UET9YGjFU9eQczBrA2UKAg==; expires=Sun, 18-Oct-26 11:21:59 GMT; domain=.rbc.ru; path=/, qrator_msid2=v2.0.1757762519.709.66586cf3RGjdxxyX|VvJh3dMlU0M7EYmY|kGhXavvCy/ICmeO2UBBfB8ixNfaajb57mlY7hAXFk8uYAUdfUrsbszLfyBnVOHLS9BFyT2KmlhKJ1Z0MAJe55Q==-VMOuRkWbK18F9IfVtLWnoYNmZt8=; Max-Age=1000; Path=/; HttpOnly;  Domain=.rbc.ru;",
+    "X-RBC-Conn": "qqmrr240",
+    "Vary": "User-Agent, Cookie",
+    "X-RBC-GRI": "P:RI:QRT|cbad44d32a2d8d1e0a29783766c27fdf|5df288f3149d33ca965a0fd0a9d09e9e",
+    "Cache-Control": "no-cache, no-store, must-revalidate",
+    "Pragma": "no-cache",
+    "Expires": "0"
+  }
+}

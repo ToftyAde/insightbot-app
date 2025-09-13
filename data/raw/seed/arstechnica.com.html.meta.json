@@ -1,0 +1,24 @@
+{
+  "source": {
+    "name": "Ars Technica",
+    "url": "https://arstechnica.com",
+    "language": "English",
+    "group": "News & Blogs/English"
+  },
+  "requested_url": "https://arstechnica.com",
+  "final_url": "https://arstechnica.com/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:19:45.772760Z",
+  "headers": {
+    "Date": "Sat, 13 Sep 2025 11:19:55 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Set-Cookie": "ars_session=083b7035067c2deec8025396b413739b; Max-Age=1800; Path=/; HttpOnly; Secure",
+    "X-Content-Type-Options": "nosniff",
+    "X-XSS-Protection": "1; mode=block",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Content-Security-Policy": "default-src https: data: 'unsafe-inline' 'unsafe-eval'; child-src https: data: blob:; connect-src https: data: blob:; font-src https: data:; img-src https: data: blob:; media-src blob: data: https:; object-src https:; script-src https: data: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; block-all-mixed-content; upgrade-insecure-requests",
+    "Content-Encoding": "gzip"
+  }
+}

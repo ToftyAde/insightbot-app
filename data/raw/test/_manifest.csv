@@ -1,0 +1,11 @@
+name,url,language,group,status,http_status,path,timestamp,final_url
+The Economist,https://www.economist.com,English,Testing/Unseen,blocked_by_robots,,,2025-09-13T11:22:41.880713Z,
+USA Today,https://www.usatoday.com,English,Testing/Unseen,ok,200,data\raw\test\www.usatoday.com.html,2025-09-13T11:22:42.753539Z,https://www.usatoday.com/
+Al Arabiya English,https://english.alarabiya.net,English,Testing/Unseen,blocked_by_robots,,,2025-09-13T11:22:48.260548Z,
+ABC (Australia) News,https://www.abc.net.au/news,English,Testing/Unseen,ok,200,data\raw\test\www.abc.net.au.html,2025-09-13T11:22:49.726404Z,https://www.abc.net.au/news
+Le Monde,https://www.lemonde.fr,French,Testing/Unseen,ok,200,data\raw\test\www.lemonde.fr.html,2025-09-13T11:22:57.836709Z,https://www.lemonde.fr/
+Sputnik News,https://www.sputniknews.com,Russian,Testing/Unseen,ok,200,data\raw\test\www.sputniknews.com.html,2025-09-13T11:23:07.864480Z,https://sputnikglobe.com/
+Jerusalem Post,https://www.jpost.com,English,Testing/Unseen,ok,200,data\raw\test\www.jpost.com.html,2025-09-13T11:23:25.071648Z,https://www.jpost.com/
+TechRadar,https://www.techradar.com,English,Testing/Unseen,ok,200,data\raw\test\www.techradar.com.html,2025-09-13T11:23:32.439740Z,https://www.techradar.com/
+Cloudflare Blog,https://blog.cloudflare.com,English,Testing/Unseen,blocked_by_robots,,,2025-09-13T11:23:43.954737Z,
+The Atlantic,https://www.theatlantic.com,English,Testing/Unseen,blocked_by_robots,,,2025-09-13T11:23:45.902708Z,

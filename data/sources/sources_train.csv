@@ -1,0 +1,41 @@
+name,url,language,group
+CNN,https://www.cnn.com,English,News & Blogs/English
+BBC,https://www.bbc.com,English,News & Blogs/English
+New York Times,https://www.nytimes.com,English,News & Blogs/English
+The Guardian,https://www.theguardian.com,English,News & Blogs/English
+Reuters,https://www.reuters.com,English,News & Blogs/English
+Washington Post,https://www.washingtonpost.com,English,News & Blogs/English
+Forbes,https://www.forbes.com,English,News & Blogs/English
+TechCrunch,https://techcrunch.com,English,News & Blogs/English
+The Next Web,https://thenextweb.com,English,News & Blogs/English
+Medium,https://medium.com,English,News & Blogs/English
+Dev.to,https://dev.to,English,News & Blogs/English
+Mashable,https://mashable.com,English,News & Blogs/English
+Wall Street Journal,https://www.wsj.com,English,News & Blogs/English
+WIRED,https://www.wired.com,English,News & Blogs/English
+NPR,https://www.npr.org,English,News & Blogs/English
+Vox,https://www.vox.com,English,News & Blogs/English
+Bloomberg,https://www.bloomberg.com,English,News & Blogs/English
+Seeking Alpha,https://www.seekingalpha.com,English,News & Blogs/English
+Engadget,https://www.engadget.com,English,News & Blogs/English
+The Verge,https://www.theverge.com,English,News & Blogs/English
+Financial Times,https://www.ft.com,English,News & Blogs/English
+Ars Technica,https://arstechnica.com,English,News & Blogs/English
+CNET,https://www.cnet.com,English,News & Blogs/English
+Slashdot,https://www.slashdot.org,English,News & Blogs/English
+HuffPost,https://www.huffpost.com,English,News & Blogs/English
+Al Jazeera (AR),https://www.aljazeera.net,Arabic,News & Blogs/Arabic
+Sky News Arabia,https://www.skynewsarabia.com,Arabic,News & Blogs/Arabic
+Al Arabiya,https://www.alarabiya.net,Arabic,News & Blogs/Arabic
+Akhbaar 24,https://www.akhbaar24.com,Arabic,News & Blogs/Arabic
+Middle East Online,https://middle-east-online.com,Arabic,News & Blogs/Arabic
+The National (EN+AR),https://www.thenationalnews.com,Arabic,News & Blogs/Arabic
+CNN Arabic,https://arabic.cnn.com,Arabic,News & Blogs/Arabic
+BBC Arabic,https://www.bbc.com/arabic,Arabic,News & Blogs/Arabic
+Masaar (EN+AR),https://www.masaar.com,Arabic,News & Blogs/Arabic
+9elp (Multilingual),https://9elp.com,Arabic,News & Blogs/Arabic
+RT,https://www.rt.com,Russian,News & Blogs/Russian
+TASS (EN+RU),https://tass.com,Russian,News & Blogs/Russian
+RBC,https://www.rbc.ru,Russian,News & Blogs/Russian
+Meduza (EN),https://meduza.io/en,Russian,News & Blogs/Russian
+Echo Moscow,https://www.echo.msk.ru,Russian,News & Blogs/Russian

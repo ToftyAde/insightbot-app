@@ -1,0 +1,28 @@
+{
+  "source": {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com",
+    "language": "English",
+    "group": "News & Blogs/English"
+  },
+  "requested_url": "https://www.bloomberg.com",
+  "final_url": "https://www.bloomberg.com/",
+  "status_code": 403,
+  "fetched_at": "2025-09-13T11:19:14.263851Z",
+  "headers": {
+    "Connection": "close",
+    "Content-Length": "13854",
+    "Server": "Varnish",
+    "Retry-After": "0",
+    "Content-Type": "text/html",
+    "Accept-Ranges": "bytes",
+    "Date": "Sat, 13 Sep 2025 11:19:20 GMT",
+    "Set-Cookie": "_pxhd=3woO5RVFWlu0q1Gp85m0WrQOs0HVQwMK2k2KHic/2tH9/J2jbPM1cirPXgATR2a1/X5BLzpCf3lbJeOjphA9Bg==:7QfcfxK4V4kak-F/nCHNCkwc4Ey3m02aQogHHsnBEi5sL5uI8hNJo/EHv1SfpJR/OmyrwgdB3vbhnjLGSrMC4tx7QTy3ByYr3OZSXGFW4BI=; Max-Age=31536000; path=/; SameSite=Lax, session_id=019942cd-12ef-7e86-9a2e-ddc0765f4ce9; path=/; max-age=31536000; domain=bloomberg.com; secure, _session_id_backup=019942cd-12ef-7e86-9a2e-ddc0765f4ce9; path=/; max-age=31536000; domain=bloomberg.com; secure, agent_id=019942cd-12ef-7c2c-b48c-b916b84be365; path=/; max-age=31536000; domain=bloomberg.com; secure, session_key=5755d73c66d431a60971599e35fa2103ad703433; path=/; max-age=31536000; domain=bloomberg.com; secure",
+    "X-Served-By": "cache-man4150-MAN",
+    "X-Cache": "MISS",
+    "X-Cache-Hits": "0",
+    "Strict-Transport-Security": "max-age=31557600",
+    "Link": "<https://assets.bwbx.io>; rel=preconnect; crossorigin, <https://assets.bwbx.io>; rel=preconnect, <https://sourcepointcmp.bloomberg.com>; rel=preconnect; crossorigin, <https://tpc.googlesyndication.com\t>; rel=preconnect; crossorigin, <https://www.google-analytics.com>; rel=preconnect; crossorigin, <https://www.googletagmanager.com>; rel=preconnect, <https://www.googletagmanager.com>; rel=preconnect; crossorigin",
+    "Cache-Control": "no-store"
+  }
+}

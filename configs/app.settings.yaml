@@ -1,0 +1,4 @@
+app:
+  per_page: 24
+  languages: ["English", "Arabic", "Russian"]
+  rtl_languages: ["Arabic"]

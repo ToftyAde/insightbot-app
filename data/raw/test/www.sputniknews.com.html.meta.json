@@ -1,0 +1,24 @@
+{
+  "source": {
+    "name": "Sputnik News",
+    "url": "https://www.sputniknews.com",
+    "language": "Russian",
+    "group": "Testing/Unseen"
+  },
+  "requested_url": "https://www.sputniknews.com",
+  "final_url": "https://sputnikglobe.com/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:23:07.864480Z",
+  "headers": {
+    "Server": "QRATOR",
+    "Date": "Sat, 13 Sep 2025 11:23:22 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Keep-Alive": "timeout=15",
+    "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "cache-control": "public",
+    "pragma": "no-cache",
+    "content-encoding": "gzip"
+  }
+}

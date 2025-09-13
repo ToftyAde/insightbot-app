@@ -1,0 +1,37 @@
+{
+  "source": {
+    "name": "Vox",
+    "url": "https://www.vox.com",
+    "language": "English",
+    "group": "News & Blogs/English"
+  },
+  "requested_url": "https://www.vox.com",
+  "final_url": "https://www.vox.com/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:19:09.522022Z",
+  "headers": {
+    "Connection": "keep-alive",
+    "Content-Length": "73430",
+    "Content-Type": "text/html; charset=utf-8",
+    "content-security-policy": "frame-ancestors https://platform.vox.com https://*.vox.com https://platform.vox.com https://*.vox.com 'self'",
+    "vm-cyclone-community-id": "1cc08290-4858-4562-8f55-7f474d32bee8",
+    "x-middleware-rewrite": "/resource/homepage",
+    "X-Powered-By": "Next.js",
+    "ETag": "\"azg48hk9cpjwyx\"",
+    "Content-Encoding": "gzip",
+    "Via": "1.1 varnish, 1.1 varnish",
+    "Referrer-Policy": "no-referrer-when-downgrade",
+    "Accept-Ranges": "bytes",
+    "Age": "3067",
+    "Date": "Sat, 13 Sep 2025 11:19:12 GMT",
+    "X-Served-By": "cache-iad-kjyo7100100-IAD, cache-man4153-MAN",
+    "X-Cache": "HIT, HIT",
+    "X-Cache-Hits": "136, 0",
+    "X-Timer": "S1757762353.827878,VS0,VE1",
+    "Vary": "Accept-Encoding, x-user-state, x-user-state",
+    "Set-Cookie": "vmidv1=86ee9d45-cb45-49db-ac98-4392aeb3ec40;Expires=Thu, 12 Sep 2030 11:19:12 GMT;Domain=www.vox.com;Path=/;SameSite=Lax;Secure, _vm_consent_type=opt-out; expires=Sun, 14 Sep 2025 11:19:12 GMT; path=/;",
+    "Cache-Control": "no-store,private",
+    "Strict-Transport-Security": "max-age=31556952; preload",
+    "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400"
+  }
+}

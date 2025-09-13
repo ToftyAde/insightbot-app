@@ -1,0 +1,30 @@
+{
+  "source": {
+    "name": "Jerusalem Post",
+    "url": "https://www.jpost.com",
+    "language": "English",
+    "group": "Testing/Unseen"
+  },
+  "requested_url": "https://www.jpost.com",
+  "final_url": "https://www.jpost.com/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:23:25.071648Z",
+  "headers": {
+    "Server": "nginx/1.26.1",
+    "Date": "Sat, 13 Sep 2025 11:23:31 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Security-Policy": "default-src http: https:;connect-src http: https:;font-src http: https: data:;frame-src http: https:;img-src http: https: data: blob:;media-src http: https: data: blob:;object-src 'none';script-src 'unsafe-inline' 'unsafe-eval' http: https:;worker-src 'self' blob:;style-src 'unsafe-inline' http: https:;",
+    "Permissions-Policy": "browsing-topics=()",
+    "cache-control": "public, max-age=150, must-revalidate, immutable",
+    "link": "</_next/static/media/330873b68d2be3b0-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/5d258b355fefebcb-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/a43ff01e3a59b019-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/c12d87a8caf45179-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/e4af272ccee01ff0-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"",
+    "X-Powered-By": "Next.js",
+    "Content-Encoding": "gzip",
+    "X-Cache-Status": "HIT",
+    "X-Host": "www.jpost.com",
+    "X-No-Cache": "0",
+    "Via": "1.1 google",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+    "Transfer-Encoding": "chunked"
+  }
+}

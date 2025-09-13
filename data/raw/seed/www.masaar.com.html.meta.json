@@ -1,0 +1,20 @@
+{
+  "source": {
+    "name": "Masaar (EN+AR)",
+    "url": "https://www.masaar.com",
+    "language": "Arabic",
+    "group": "News & Blogs/Arabic"
+  },
+  "requested_url": "https://www.masaar.com",
+  "final_url": "https://masaar.com",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:21:23.773401Z",
+  "headers": {
+    "Date": "Sat, 13 Sep 2025 11:21:30 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "X-Powered-By": "Express",
+    "Strict-Transport-Security": "max-age=15724800; includeSubDomains"
+  }
+}

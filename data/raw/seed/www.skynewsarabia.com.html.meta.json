@@ -1,0 +1,34 @@
+{
+  "source": {
+    "name": "Sky News Arabia",
+    "url": "https://www.skynewsarabia.com",
+    "language": "Arabic",
+    "group": "News & Blogs/Arabic"
+  },
+  "requested_url": "https://www.skynewsarabia.com",
+  "final_url": "https://www.skynewsarabia.com/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:20:24.531376Z",
+  "headers": {
+    "Content-Type": "text/html;charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "x-server": "rdwr",
+    "Content-Encoding": "gzip",
+    "Set-Cookie": "__uzma=c64e0055-0e13-42af-af9d-303cc58ec1bb; HttpOnly; path=/; Expires=Sat, 14-Mar-26 11:19:36 GMT; Max-Age=15724800; SameSite=Lax, __uzmb=1757762376; HttpOnly; path=/; Expires=Sat, 14-Mar-26 11:19:36 GMT; Max-Age=15724800; SameSite=Lax, __uzme=5597; HttpOnly; path=/; Expires=Sat, 14-Mar-26 11:19:36 GMT; Max-Age=15724800; SameSite=Lax, __uzmc=117001070023; HttpOnly; path=/; Expires=Sat, 14-Mar-26 11:19:36 GMT; Max-Age=15724800; SameSite=Lax, __uzmd=1757762376; HttpOnly; path=/; Expires=Sat, 14-Mar-26 11:19:36 GMT; Max-Age=15724800; SameSite=Lax, __uzmf=7f9000c64e0055-0e13-42af-af9d-303cc58ec1bb1-17577623775090-000f51bf68b8be7439e10; HttpOnly; path=/; Expires=Sat, 14-Mar-26 11:19:36 GMT; Max-Age=15724800; SameSite=Lax, uzmx=7f9000065fe678-3025-4a95-85b5-cd132299b64c1-17577623775090-0687d596c994807e10; Domain=.skynewsarabia.com; HttpOnly; path=/; Expires=Sat, 14-Mar-26 11:19:36 GMT; Max-Age=15724800; SameSite=Lax",
+    "Date": "Sat, 13 Sep 2025 11:19:37 GMT",
+    "X-XSS-Protection": "1; mode=block",
+    "Access-Control-Allow-Origin": "*",
+    "Content-Language": "ar",
+    "Cache-Control": "public, s-maxage=120, max-age=120",
+    "Expires": "Sat, 13 Sep 2025 11:21:37 GMT",
+    "X-Content-Type-Options": "nosniff",
+    "rdwr_response": "allowed",
+    "X-Cache": "Hit from cloudfront",
+    "Via": "1.1 450b03d6f80e8a9a65630e947501047e.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "LOS50-P2",
+    "Alt-Svc": "h3=\":443\"; ma=86400",
+    "X-Amz-Cf-Id": "4KafkeXGHR7-Aq1SX40axhhOy1LUTFMSpEpV5GkGoA1c3ziYJJ7_mQ==",
+    "Age": "59"
+  }
+}

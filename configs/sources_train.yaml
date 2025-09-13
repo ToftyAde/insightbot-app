@@ -1,0 +1,162 @@
+# Training Sources (40)
+sources:
+  - name: CNN
+    url: https://www.cnn.com
+    language: English
+    group: News & Blogs/English
+  - name: BBC
+    url: https://www.bbc.com
+    language: English
+    group: News & Blogs/English
+  - name: New York Times
+    url: https://www.nytimes.com
+    language: English
+    group: News & Blogs/English
+  - name: The Guardian
+    url: https://www.theguardian.com
+    language: English
+    group: News & Blogs/English
+  - name: Reuters
+    url: https://www.reuters.com
+    language: English
+    group: News & Blogs/English
+  - name: Washington Post
+    url: https://www.washingtonpost.com
+    language: English
+    group: News & Blogs/English
+  - name: Forbes
+    url: https://www.forbes.com
+    language: English
+    group: News & Blogs/English
+  - name: TechCrunch
+    url: https://techcrunch.com
+    language: English
+    group: News & Blogs/English
+  - name: The Next Web
+    url: https://thenextweb.com
+    language: English
+    group: News & Blogs/English
+  - name: Medium
+    url: https://medium.com
+    language: English
+    group: News & Blogs/English
+  - name: Dev.to
+    url: https://dev.to
+    language: English
+    group: News & Blogs/English
+  - name: Mashable
+    url: https://mashable.com
+    language: English
+    group: News & Blogs/English
+  - name: Wall Street Journal
+    url: https://www.wsj.com
+    language: English
+    group: News & Blogs/English
+  - name: WIRED
+    url: https://www.wired.com
+    language: English
+    group: News & Blogs/English
+  - name: NPR
+    url: https://www.npr.org
+    language: English
+    group: News & Blogs/English
+  - name: Vox
+    url: https://www.vox.com
+    language: English
+    group: News & Blogs/English
+  - name: Bloomberg
+    url: https://www.bloomberg.com
+    language: English
+    group: News & Blogs/English
+  - name: Seeking Alpha
+    url: https://www.seekingalpha.com
+    language: English
+    group: News & Blogs/English
+  - name: Engadget
+    url: https://www.engadget.com
+    language: English
+    group: News & Blogs/English
+  - name: The Verge
+    url: https://www.theverge.com
+    language: English
+    group: News & Blogs/English
+  - name: Financial Times
+    url: https://www.ft.com
+    language: English
+    group: News & Blogs/English
+  - name: Ars Technica
+    url: https://arstechnica.com
+    language: English
+    group: News & Blogs/English
+  - name: CNET
+    url: https://www.cnet.com
+    language: English
+    group: News & Blogs/English
+  - name: Slashdot
+    url: https://www.slashdot.org
+    language: English
+    group: News & Blogs/English
+  - name: HuffPost
+    url: https://www.huffpost.com
+    language: English
+    group: News & Blogs/English
+  - name: Al Jazeera (AR)
+    url: https://www.aljazeera.net
+    language: Arabic
+    group: News & Blogs/Arabic
+  - name: Sky News Arabia
+    url: https://www.skynewsarabia.com
+    language: Arabic
+    group: News & Blogs/Arabic
+  - name: Al Arabiya
+    url: https://www.alarabiya.net
+    language: Arabic
+    group: News & Blogs/Arabic
+  - name: Akhbaar 24
+    url: https://www.akhbaar24.com
+    language: Arabic
+    group: News & Blogs/Arabic
+  - name: Middle East Online
+    url: https://middle-east-online.com
+    language: Arabic
+    group: News & Blogs/Arabic
+  - name: The National (EN+AR)
+    url: https://www.thenationalnews.com
+    language: Arabic
+    group: News & Blogs/Arabic
+  - name: CNN Arabic
+    url: https://arabic.cnn.com
+    language: Arabic
+    group: News & Blogs/Arabic
+  - name: BBC Arabic
+    url: https://www.bbc.com/arabic
+    language: Arabic
+    group: News & Blogs/Arabic
+  - name: Masaar (EN+AR)
+    url: https://www.masaar.com
+    language: Arabic
+    group: News & Blogs/Arabic
+  - name: 9elp (Multilingual)
+    url: https://9elp.com
+    language: Arabic
+    group: News & Blogs/Arabic
+  - name: RT
+    url: https://www.rt.com
+    language: Russian
+    group: News & Blogs/Russian
+  - name: TASS (EN+RU)
+    url: https://tass.com
+    language: Russian
+    group: News & Blogs/Russian
+  - name: RBC
+    url: https://www.rbc.ru
+    language: Russian
+    group: News & Blogs/Russian
+  - name: Meduza (EN)
+    url: https://meduza.io/en
+    language: Russian
+    group: News & Blogs/Russian
+  - name: Echo Moscow
+    url: https://www.echo.msk.ru
+    language: Russian
+    group: News & Blogs/Russian

@@ -1,0 +1,5 @@
+# Example rules file (extend per domain)
+defaults:
+  title_selectors: ["h1", "header h1", "article h1"]
+  body_selectors: ["article", ".article-body", ".post-content"]
+  date_selectors: ["time[datetime]", "meta[property='article:published_time']"]

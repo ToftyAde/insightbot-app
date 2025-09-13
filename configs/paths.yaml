@@ -1,0 +1,3 @@
+data_root: ./data
+processed_dir: ./data/processed/latest
+logs_dir: ./logs

@@ -1,0 +1,1 @@
+# Makes 'insightbot' a package

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 40">
+  <rect width="60" height="40" fill="#006C35"></rect>
+  <!-- simple crescent + sword motif (stylized) -->
+  <path d="M23 20a7 7 0 1 1 9 6 6 6 0 1 0-9-6z" fill="#fff"></path>
+  <rect x="14" y="28" width="32" height="2" rx="1" fill="#fff"></rect>
+</svg>

@@ -1,0 +1,25 @@
+{
+  "source": {
+    "name": "CNET",
+    "url": "https://www.cnet.com",
+    "language": "English",
+    "group": "News & Blogs/English"
+  },
+  "requested_url": "https://www.cnet.com",
+  "final_url": "https://www.cnet.com/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:19:57.098907Z",
+  "headers": {
+    "Connection": "keep-alive",
+    "Content-Length": "436473",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=utf-8",
+    "Last-Modified": "Sat, 13 Sep 2025 11:15:21 GMT",
+    "Date": "Sat, 13 Sep 2025 11:20:01 GMT",
+    "Set-Cookie": "fly_geo={\"countryCode\": \"ng\"}; max-age=604800; path=/; domain=.cnet.com; Secure;, fly_device=desktop; max-age=604800; path=/; domain=.cnet.com; Secure;, fly_zip=(null); max-age=604800; path=/; domain=.cnet.com; Secure;, country_code=ng; max-age=604800; path=/; domain=.cnet.com; Secure; SameSite=Lax;",
+    "Vary": "Accept-Encoding, User-Agent",
+    "cache-control": "max-age=300, private",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+    "accept-ranges": "bytes"
+  }
+}

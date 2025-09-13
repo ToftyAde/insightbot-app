@@ -1,0 +1,30 @@
+{
+  "source": {
+    "name": "TASS (EN+RU)",
+    "url": "https://tass.com",
+    "language": "Russian",
+    "group": "News & Blogs/Russian"
+  },
+  "requested_url": "https://tass.com",
+  "final_url": "https://tass.com/",
+  "status_code": 200,
+  "fetched_at": "2025-09-13T11:21:49.984917Z",
+  "headers": {
+    "Server": "nginx",
+    "Date": "Sat, 13 Sep 2025 11:21:53 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Keep-Alive": "timeout=15",
+    "set-cookie": "spid=1757762513620_de5f07cfdd5c170f988f06a1ead43c21_ll5oh7jbglsabe97; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Path=/; Secure; SameSite=None",
+    "ETag": "W/\"13dde-0QY1QVcTA+zZtIt6SJy4ePwFGTI\"",
+    "Access-Control-Allow-Origin": "admin.tass.ru",
+    "Content-Encoding": "gzip",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1; mode=block",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "Referrer-Policy": "origin",
+    "X-SP-CRID": "710038270:1"
+  }
+}

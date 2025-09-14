@@ -119,3 +119,49 @@ TASS (EN+RU),https://tass.com,Russian,News & Blogs/Russian,ok,200,data\raw\seed\
 RBC,https://www.rbc.ru,Russian,News & Blogs/Russian,ok,200,data\raw\seed\www.rbc.ru.html,2025-09-13T11:21:54.748200Z,https://www.rbc.ru/
 Meduza (EN),https://meduza.io/en,Russian,News & Blogs/Russian,ok,200,data\raw\seed\meduza.io.html,2025-09-13T11:22:06.372809Z,https://meduza.io/en
 Echo Moscow,https://www.echo.msk.ru,Russian,News & Blogs/Russian,ok,200,data\raw\seed\www.echo.msk.ru.html,2025-09-13T11:22:12.900559Z,https://ritmmsk.ru/
+CNN,https://www.cnn.com,English,News & Blogs/English,blocked_by_robots,,,2025-09-14T16:42:16.012872Z,
+BBC,https://www.bbc.com,English,News & Blogs/English,ok,200,data/raw/seed\www.bbc.com.html,2025-09-14T16:42:16.366478Z,https://www.bbc.com/
+New York Times,https://www.nytimes.com,English,News & Blogs/English,ok,200,data/raw/seed\www.nytimes.com.html,2025-09-14T16:42:19.616346Z,https://www.nytimes.com/
+The Guardian,https://www.theguardian.com,English,News & Blogs/English,ok,200,data/raw/seed\www.theguardian.com.html,2025-09-14T16:42:25.544902Z,https://www.theguardian.com/international
+Reuters,https://www.reuters.com,English,News & Blogs/English,ok,401,data/raw/seed\www.reuters.com.html,2025-09-14T16:42:29.896852Z,https://www.reuters.com/
+Washington Post,https://www.washingtonpost.com,English,News & Blogs/English,error,,,2025-09-14T16:42:36.883289Z,
+Forbes,https://www.forbes.com,English,News & Blogs/English,blocked_by_robots,,,2025-09-14T16:42:52.894445Z,
+TechCrunch,https://techcrunch.com,English,News & Blogs/English,ok,200,data/raw/seed\techcrunch.com.html,2025-09-14T16:42:53.465285Z,https://techcrunch.com/
+The Next Web,https://thenextweb.com,English,News & Blogs/English,ok,200,data/raw/seed\thenextweb.com.html,2025-09-14T16:42:58.121147Z,https://thenextweb.com/
+Medium,https://medium.com,English,News & Blogs/English,blocked_by_robots,,,2025-09-14T16:43:01.683901Z,
+Dev.to,https://dev.to,English,News & Blogs/English,blocked_by_robots,,,2025-09-14T16:43:02.244729Z,
+CNN,https://www.cnn.com,English,News & Blogs/English,blocked_by_robots,,,2025-09-14T16:45:43.366465Z,
+BBC,https://www.bbc.com,English,News & Blogs/English,ok,200,data/raw/seed\www.bbc.com.html,2025-09-14T16:45:43.863701Z,https://www.bbc.com/
+New York Times,https://www.nytimes.com,English,News & Blogs/English,ok,200,data/raw/seed\www.nytimes.com.html,2025-09-14T16:45:47.664334Z,https://www.nytimes.com/
+The Guardian,https://www.theguardian.com,English,News & Blogs/English,ok,200,data/raw/seed\www.theguardian.com.html,2025-09-14T16:45:51.992295Z,https://www.theguardian.com/international
+Reuters,https://www.reuters.com,English,News & Blogs/English,ok,401,data/raw/seed\www.reuters.com.html,2025-09-14T16:45:55.768072Z,https://www.reuters.com/
+Washington Post,https://www.washingtonpost.com,English,News & Blogs/English,error,,,2025-09-14T16:45:58.864772Z,
+Forbes,https://www.forbes.com,English,News & Blogs/English,blocked_by_robots,,,2025-09-14T16:46:14.325633Z,
+TechCrunch,https://techcrunch.com,English,News & Blogs/English,ok,200,data/raw/seed\techcrunch.com.html,2025-09-14T16:46:15.236426Z,https://techcrunch.com/
+The Next Web,https://thenextweb.com,English,News & Blogs/English,ok,200,data/raw/seed\thenextweb.com.html,2025-09-14T16:46:19.139913Z,https://thenextweb.com/
+Medium,https://medium.com,English,News & Blogs/English,blocked_by_robots,,,2025-09-14T16:46:22.443308Z,
+Dev.to,https://dev.to,English,News & Blogs/English,blocked_by_robots,,,2025-09-14T16:46:22.948595Z,
+Mashable,https://mashable.com,English,News & Blogs/English,blocked_by_robots,,,2025-09-14T16:46:23.523975Z,
+Wall Street Journal,https://www.wsj.com,English,News & Blogs/English,blocked_by_robots,,,2025-09-14T16:46:24.006963Z,
+WIRED,https://www.wired.com,English,News & Blogs/English,ok,200,data/raw/seed\www.wired.com.html,2025-09-14T16:46:24.721870Z,https://www.wired.com/
+NPR,https://www.npr.org,English,News & Blogs/English,error,,,2025-09-14T16:46:27.848457Z,
+Vox,https://www.vox.com,English,News & Blogs/English,ok,200,data/raw/seed\www.vox.com.html,2025-09-14T16:46:43.559827Z,https://www.vox.com/
+Bloomberg,https://www.bloomberg.com,English,News & Blogs/English,ok,403,data/raw/seed\www.bloomberg.com.html,2025-09-14T16:46:47.111098Z,https://www.bloomberg.com/
+Seeking Alpha,https://www.seekingalpha.com,English,News & Blogs/English,blocked_by_robots,,,2025-09-14T16:46:50.835278Z,
+Engadget,https://www.engadget.com,English,News & Blogs/English,ok,200,data/raw/seed\www.engadget.com.html,2025-09-14T16:46:52.082193Z,https://www.engadget.com/
+The Verge,https://www.theverge.com,English,News & Blogs/English,blocked_by_robots,,,2025-09-14T16:46:56.601445Z,
+Financial Times,https://www.ft.com,English,News & Blogs/English,ok,200,data/raw/seed\www.ft.com.html,2025-09-14T16:46:57.523366Z,https://www.ft.com/
+Ars Technica,https://arstechnica.com,English,News & Blogs/English,ok,200,data/raw/seed\arstechnica.com.html,2025-09-14T16:47:01.927619Z,https://arstechnica.com/
+CNET,https://www.cnet.com,English,News & Blogs/English,ok,200,data/raw/seed\www.cnet.com.html,2025-09-14T16:47:06.848176Z,https://www.cnet.com/
+Slashdot,https://www.slashdot.org,English,News & Blogs/English,ok,200,data/raw/seed\www.slashdot.org.html,2025-09-14T16:47:11.486356Z,https://slashdot.org/
+HuffPost,https://www.huffpost.com,English,News & Blogs/English,ok,200,data/raw/seed\www.huffpost.com.html,2025-09-14T16:47:16.542430Z,https://www.huffpost.com/
+Al Jazeera (AR),https://www.aljazeera.net,Arabic,News & Blogs/Arabic,ok,200,data/raw/seed\www.aljazeera.net.html,2025-09-14T16:47:22.701248Z,https://www.aljazeera.net/
+Sky News Arabia,https://www.skynewsarabia.com,Arabic,News & Blogs/Arabic,ok,200,data/raw/seed\www.skynewsarabia.com.html,2025-09-14T16:47:27.071326Z,https://www.skynewsarabia.com/
+Al Arabiya,https://www.alarabiya.net,Arabic,News & Blogs/Arabic,blocked_by_robots,,,2025-09-14T16:47:30.922749Z,
+Akhbaar 24,https://www.akhbaar24.com,Arabic,News & Blogs/Arabic,ok,200,data/raw/seed\www.akhbaar24.com.html,2025-09-14T16:47:31.543391Z,https://www.akhbaar24.com/
+CNN,https://www.cnn.com,English,News & Blogs/English,blocked_by_robots,,,2025-09-14T16:58:33.256342Z,
+BBC,https://www.bbc.com,English,News & Blogs/English,ok,200,data/raw/seed\www.bbc.com.html,2025-09-14T16:58:33.514722Z,https://www.bbc.com/
+New York Times,https://www.nytimes.com,English,News & Blogs/English,ok,200,data/raw/seed\www.nytimes.com.html,2025-09-14T16:58:36.785651Z,https://www.nytimes.com/
+The Guardian,https://www.theguardian.com,English,News & Blogs/English,ok,200,data/raw/seed\www.theguardian.com.html,2025-09-14T16:58:41.439297Z,https://www.theguardian.com/international
+Reuters,https://www.reuters.com,English,News & Blogs/English,ok,401,data/raw/seed\www.reuters.com.html,2025-09-14T16:58:46.025099Z,https://www.reuters.com/
+Washington Post,https://www.washingtonpost.com,English,News & Blogs/English,error,,,2025-09-14T16:58:48.697335Z,

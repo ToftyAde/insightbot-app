@@ -8,24 +8,25 @@
   "requested_url": "https://www.akhbaar24.com",
   "final_url": "https://www.akhbaar24.com/",
   "status_code": 200,
-  "fetched_at": "2025-09-13T11:20:45.051706Z",
+  "fetched_at": "2025-09-14T16:47:31.543391Z",
   "headers": {
-    "Date": "Sat, 13 Sep 2025 11:20:49 GMT",
+    "Date": "Sun, 14 Sep 2025 16:47:33 GMT",
     "Content-Type": "text/html; charset=UTF-8",
     "Transfer-Encoding": "chunked",
     "Connection": "keep-alive",
     "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
     "Server": "cloudflare",
-    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ulfshDzhzyIcAqkEdFsLSkvPoYfm5IgSu7zk4OM%2BtB3qtuLLnU6yfBhQDQeg%2Fw6Zb6hAQu6LVIDZmp3UVtShfYz9UnfZXflOyCyNGvFz\"}]}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=4vhtl6s0LN16AkEwvK%2FnX1YiafZAUz7z%2FqjSUnPzV8ZqGBN6gw7C6VPFpJUIxZh%2FLMxz4oGKaFKZ%2FHWmtWX95WorZy2PUIa5Y1RNG8uUXwk%3D\"}]}",
     "Cache-Control": "stale-while-revalidate=60",
     "Vary": "Accept-Encoding",
-    "X-Cache": "Miss from cloudfront",
-    "Via": "1.1 bf782c028c85b3de6883a6e8aea78054.cloudfront.net (CloudFront)",
+    "X-Cache": "Hit from cloudfront",
+    "Via": "1.1 1d1ac947176d7f8f6bd3207cb28e5bba.cloudfront.net (CloudFront)",
     "X-Amz-Cf-Pop": "LHR61-P6",
-    "X-Amz-Cf-Id": "ONb6vlVKk4DSy1lCIVFb2hsIsl_dKvWq5lcRBrnFSR8m9e2L4K6_hA==",
+    "X-Amz-Cf-Id": "bNQxiNdpk81aj2pjLI2RkIu7Q8kj3ILyxpzS1_Pwo0-nnsYQNDZCAg==",
+    "Age": "78",
     "cf-cache-status": "DYNAMIC",
     "Content-Encoding": "gzip",
-    "Set-Cookie": "device=web; HttpOnly; Secure; Path=/; Max-Age=315360000; Expires=Tue, 11 Sep 2035 11:20:49 GMT, array_query=deleted; Path=/; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:01 GMT",
-    "CF-RAY": "97e741eb3d74edf0-LHR"
+    "Set-Cookie": "device=web; HttpOnly; Secure; Path=/; Max-Age=315360000; Expires=Wed, 12 Sep 2035 16:46:15 GMT, array_query=deleted; Path=/; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:01 GMT",
+    "CF-RAY": "97f15debdba914e7-LHR"
   }
 }

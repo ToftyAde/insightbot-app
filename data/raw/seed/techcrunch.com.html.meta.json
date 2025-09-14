@@ -8,10 +8,10 @@
   "requested_url": "https://techcrunch.com",
   "final_url": "https://techcrunch.com/",
   "status_code": 200,
-  "fetched_at": "2025-09-13T11:18:21.290227Z",
+  "fetched_at": "2025-09-14T16:46:15.236426Z",
   "headers": {
     "Server": "nginx",
-    "Date": "Sat, 13 Sep 2025 11:18:26 GMT",
+    "Date": "Sun, 14 Sep 2025 16:46:17 GMT",
     "Content-Type": "text/html; charset=UTF-8",
     "Transfer-Encoding": "chunked",
     "Connection": "keep-alive",
@@ -28,10 +28,10 @@
     "Access-Control-Allow-Methods": "*",
     "Link": "<https://techcrunch.com/wp-json/>; rel=\"https://api.w.org/\"",
     "Content-Encoding": "gzip",
-    "cache-control": "max-age=300, must-revalidate",
-    "x-rq": "jnb2 0 30 9980",
     "accept-ranges": "bytes",
+    "x-rq": "jnb2 0 30 9980",
     "x-cache": "HIT",
+    "cache-control": "max-age=300, must-revalidate",
     "Strict-Transport-Security": "max-age=300;includeSubdomains"
   }
 }

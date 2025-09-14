@@ -4,39 +4,58 @@ sources:
     url: https://www.economist.com
     language: English
     group: Testing/Unseen
+    # No reliable public sitewide RSS. Leave blank to let your script skip if none.
+
   - name: USA Today
     url: https://www.usatoday.com
     language: English
     group: Testing/Unseen
+    rss: https://rssfeeds.usatoday.com/usatoday-NewsTopStories   # commonly used Top Stories feed; may be unstable
+
   - name: Al Arabiya English
     url: https://english.alarabiya.net
     language: English
     group: Testing/Unseen
+    rss: https://english.alarabiya.net/tools/mrss               # MRSS hub (serves latest; section links available there)
+
   - name: ABC (Australia) News
     url: https://www.abc.net.au/news
     language: English
     group: Testing/Unseen
+    rss: https://www.abc.net.au/news/feed/10719986/rss.xml      # Top Stories feed
+
   - name: Le Monde
     url: https://www.lemonde.fr
     language: French
     group: Testing/Unseen
+    rss: https://www.lemonde.fr/rss/une.xml                     # Front page ("À la Une")
+
   - name: Sputnik News
     url: https://www.sputniknews.com
     language: Russian
     group: Testing/Unseen
+    rss: https://sputniknews.com/export/rss2/world/index.xml    # World section feed
+
   - name: Jerusalem Post
     url: https://www.jpost.com
     language: English
     group: Testing/Unseen
+    rss: https://www.jpost.com/rss/rssfeedsheadlines.aspx       # Breaking/Headlines feed
+
   - name: TechRadar
     url: https://www.techradar.com
     language: English
     group: Testing/Unseen
+    rss: https://www.techradar.com/rss
+
   - name: Cloudflare Blog
     url: https://blog.cloudflare.com
     language: English
     group: Testing/Unseen
+    rss: https://blog.cloudflare.com/rss/
+
   - name: The Atlantic
     url: https://www.theatlantic.com
     language: English
     group: Testing/Unseen
+    rss: https://www.theatlantic.com/feed/all/                  # All-site feed
